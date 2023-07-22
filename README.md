@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilofficial07&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilofficial07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilofficial07" alt="nikhilofficial07" /></a> </p>
+<!--
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilofficial07" alt="nikhilofficial07" /></a> </p> 
+!-->
+
+<p align="center" width="100%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilofficial07&margin-w=15&margin-h=5&theme=solarized&column=-1" alt="nikhilofficial07" /></a> </p>
 
 <img align="right" alt="Coding" width="250" src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp">
 
