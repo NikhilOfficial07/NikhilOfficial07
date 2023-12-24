@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Any Open Source Project**
 
-- 📫 How to reach me **nikhilam2002@gmail.com**
+- 📫 How to reach me **nikhilgupta.post@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
