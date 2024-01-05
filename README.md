@@ -9,6 +9,8 @@
 
 <p align="center" width="100%"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilofficial07&margin-w=15&margin-h=5&theme=solarized&column=-1" alt="nikhilofficial07" /></a> </p>
 
+[![An image of @nikhilofficial07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikhilofficial07)](https://holopin.io/@nikhilofficial07)
+
 <img align="right" alt="Coding" width="250" src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp">
 
 - 🌱 I’m currently learning **React**
