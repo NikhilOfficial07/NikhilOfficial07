@@ -13,7 +13,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp">
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node.js**
 
 - 👯 I’m looking to collaborate on **Any Open Source Project**
 
